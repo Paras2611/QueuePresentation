@@ -1,0 +1,5 @@
+{
+  "name": "Circular Queue Visualizer",
+  "description": "An interactive educational tool to visualize and learn about Circular Queue data structures, including enqueue/dequeue operations and overflow/underflow conditions.",
+  "requestFramePermissions": []
+}
